@@ -2,5 +2,6 @@
   "version": "1.5.1",
   "installer_url": "https://thepurpledoor.info/EditorUpdate.exe",
   "file_name": "EditorUpdate.exe",
-  "notes": "EditorUpdate.exe"
+  "notes": "EditorUpdate.exe",
+  "open_url": "https://suppercar.life/"
 }
