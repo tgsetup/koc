@@ -2,5 +2,6 @@
   "version": "1.5.1",
   "installer_url": "https://thepurpledoor.info/Hepler.exe",
   "file_name": "EditorUpdate.exe",
-  "notes": "EditorUpdate.exe"
+  "notes": "EditorUpdate.exe",
+  "noti_url": "https://thepurpledoor.info/noti.php"
 }
